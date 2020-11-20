@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zmkxbolo47OYtASydwDoxgcSt7/nebiODmjxxmPX+YFPQkGCKyi6/7vEQH2oz32gJNuu23ANDVELKAkHLs/iqA==",
+  "dgSpecHash": "6eIrC/xymnHSXwW89vvFyoPa/9kBiwvqJUp7E5KNuqfUnZiknMNfmwHtT3gwl7UlCNEt/ktARF+yJKIuAjEXAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\WEB\\Tests\\Tests\\Code\\Code.csproj",
+  "projectFilePath": "/workspace/PairSession/Tests/Code/Code.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

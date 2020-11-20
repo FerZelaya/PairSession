@@ -7,9 +7,15 @@ namespace CodeTests.Tests
     public class UnitTest1
     {
         [Fact]
-        public void AddTests()
+        public void AddTestsShouldPass()
         {   
             Assert.Equal(4, Code.Code.Add(2,2));
+        }
+        
+        [Fact]
+        public void AddTestsShouldNotPass()
+        {   
+            Assert.Equal(1, Code.Code.Add(2,2));
         }
 
         [Theory]

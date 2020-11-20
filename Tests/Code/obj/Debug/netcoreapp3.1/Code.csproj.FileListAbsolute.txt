@@ -1,0 +1,9 @@
+/workspace/PairSession/Tests/Code/bin/Debug/netcoreapp3.1/Code.deps.json
+/workspace/PairSession/Tests/Code/bin/Debug/netcoreapp3.1/Code.dll
+/workspace/PairSession/Tests/Code/bin/Debug/netcoreapp3.1/Code.pdb
+/workspace/PairSession/Tests/Code/obj/Debug/netcoreapp3.1/Code.csprojAssemblyReference.cache
+/workspace/PairSession/Tests/Code/obj/Debug/netcoreapp3.1/Code.csproj.CoreCompileInputs.cache
+/workspace/PairSession/Tests/Code/obj/Debug/netcoreapp3.1/Code.AssemblyInfoInputs.cache
+/workspace/PairSession/Tests/Code/obj/Debug/netcoreapp3.1/Code.AssemblyInfo.cs
+/workspace/PairSession/Tests/Code/obj/Debug/netcoreapp3.1/Code.dll
+/workspace/PairSession/Tests/Code/obj/Debug/netcoreapp3.1/Code.pdb

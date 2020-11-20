@@ -1,38 +1,82 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\WEB\\Tests\\Tests\\CodeTests.Tests\\CodeTests.Tests.csproj": {}
+    "/workspace/PairSession/Tests/CodeTests.Tests/CodeTests.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\WEB\\Tests\\Tests\\CodeTests.Tests\\CodeTests.Tests.csproj": {
+    "/workspace/PairSession/Tests/Code/Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\WEB\\Tests\\Tests\\CodeTests.Tests\\CodeTests.Tests.csproj",
-        "projectName": "CodeTests.Tests",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\WEB\\Tests\\Tests\\CodeTests.Tests\\CodeTests.Tests.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\WEB\\Tests\\Tests\\CodeTests.Tests\\obj\\",
+        "projectUniqueName": "/workspace/PairSession/Tests/Code/Code.csproj",
+        "projectName": "Code",
+        "projectPath": "/workspace/PairSession/Tests/Code/Code.csproj",
+        "packagesPath": "/home/gitpod/.nuget/packages/",
+        "outputPath": "/workspace/PairSession/Tests/Code/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/gitpod/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/gitpod/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/workspace/PairSession/Tests/CodeTests.Tests/CodeTests.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspace/PairSession/Tests/CodeTests.Tests/CodeTests.Tests.csproj",
+        "projectName": "CodeTests.Tests",
+        "projectPath": "/workspace/PairSession/Tests/CodeTests.Tests/CodeTests.Tests.csproj",
+        "packagesPath": "/home/gitpod/.nuget/packages/",
+        "outputPath": "/workspace/PairSession/Tests/CodeTests.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gitpod/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\WEB\\Tests\\Tests\\Code\\Code.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\WEB\\Tests\\Tests\\Code\\Code.csproj"
+              "/workspace/PairSession/Tests/Code/Code.csproj": {
+                "projectPath": "/workspace/PairSession/Tests/Code/Code.csproj"
               }
             }
           }
@@ -44,8 +88,7 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -83,64 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Usuario\\Desktop\\WEB\\Tests\\Tests\\Code\\Code.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\WEB\\Tests\\Tests\\Code\\Code.csproj",
-        "projectName": "Code",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\WEB\\Tests\\Tests\\Code\\Code.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\WEB\\Tests\\Tests\\Code\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/gitpod/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
         }
       }
     }
